@@ -1,0 +1,12 @@
+student_list = [{'name': 'John', 'major': "Computer Science", 'sex': "male"},
+                {'name': 'Nate', 'major': "Computer Science", 'sex': "male"},
+                {'name': 'Abraham', 'major': "Physics", 'sex': "male"},
+                {'name': 'Brian', 'major': "Psychology", 'sex': "male"},
+                {'name': 'Janny', 'major': "Economics", 'sex': "female"},
+                {'name': 'Yuna', 'major': "Economics", 'sex': "female"},
+                {'name': 'Jeniffer', 'major': "Computer Science", 'sex': "female"},
+                {'name': 'Edward', 'major': "Computer Science", 'sex': "male"},
+                {'name': 'Zara', 'major': "Psychology", 'sex': "female"},
+                {'name': 'Wendy', 'major': "Economics", 'sex': "female"},
+                {'name': 'Sera', 'major': "Psychology", 'sex': "female"}
+         ]
